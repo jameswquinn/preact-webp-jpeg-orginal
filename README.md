@@ -233,10 +233,7 @@ module.exports = {
 }
 ```
 
-### 3. Documentation (README.md)
-
-#### `README.md`
-
+### 3. Documentation
 
 # Preact WebP JPEG Support
 

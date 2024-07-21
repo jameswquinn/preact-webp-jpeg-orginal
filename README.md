@@ -237,7 +237,7 @@ module.exports = {
 
 #### `README.md`
 
-```markdown
+
 # Preact WebP JPEG Support
 
 A Preact app that detects browser support for WebP and falls back to JPEG.

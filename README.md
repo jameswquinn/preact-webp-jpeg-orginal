@@ -1,3 +1,5 @@
+"integrate native preact app to detect browser support for webp and fallback support for jepg. generate all files. Add documentation with examples for github."
+
 Sure, let's create all necessary files and include a README for documentation on GitHub. Below are the instructions and the complete setup for a Preact project that detects WebP support and falls back to JPEG.
 
 ### 1. Project Structure

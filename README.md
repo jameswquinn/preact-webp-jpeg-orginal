@@ -307,6 +307,4 @@ The output will be in the `dist` directory.
 ## License
 
 This project is licensed under the MIT License.
-```
 
-This setup will help you detect WebP support and fall back to JPEG images in a Preact application, ensuring efficient and optimized image delivery based on browser capabilities.

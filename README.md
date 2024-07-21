@@ -309,31 +309,4 @@ The output will be in the `dist` directory.
 This project is licensed under the MIT License.
 ```
 
-### Steps to Run the Project
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/your-username/preact-webp-jpeg.git
-   cd preact-webp-jpeg
-   ```
-
-2. **Install Dependencies**:
-
-   ```bash
-   npm install
-   ```
-
-3. **Start the Development Server**:
-
-   ```bash
-   npm start
-   ```
-
-4. **Build for Production**:
-
-   ```bash
-   npm run build
-   ```
-
 This setup will help you detect WebP support and fall back to JPEG images in a Preact application, ensuring efficient and optimized image delivery based on browser capabilities.

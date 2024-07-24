@@ -20,8 +20,8 @@ A Preact application that detects browser support for WebP images and falls back
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/preact-webp-jpeg.git
-   cd preact-webp-jpeg
+   git clone https://github.com/jameswquinn/preact-webp-jpeg-orginal.git
+   cd preact-webp-jpeg-orginal
    ```
 
 2. Install dependencies:
